@@ -23,3 +23,6 @@ entire class list, access an individual profile using a student number, or to re
 
 ## Student Menu
 <img width="277" alt="Screen Shot 2021-01-17 at 8 16 24 PM" src="https://user-images.githubusercontent.com/67882898/104862490-5886ca00-5901-11eb-9fda-061d9b5f84a9.png">
+
+## Video Demonstration
+https://youtu.be/-2oM3SxTtOE 
