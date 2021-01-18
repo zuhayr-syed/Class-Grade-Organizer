@@ -11,3 +11,6 @@ entire class list, access an individual profile using a student number, or to re
 
 ## Welcome Screen
 <img width="342" alt="Screen Shot 2021-01-17 at 8 13 38 PM" src="https://user-images.githubusercontent.com/67882898/104862256-f0d07f00-5900-11eb-8ddd-b39541ccf082.png">
+
+## Main Menu
+<img width="388" alt="Screen Shot 2021-01-17 at 8 14 30 PM" src="https://user-images.githubusercontent.com/67882898/104862284-0b0a5d00-5901-11eb-8240-e485ae1e847e.png">
