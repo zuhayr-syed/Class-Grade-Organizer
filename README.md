@@ -1,4 +1,4 @@
-# Class-Grade-Organizer
+# Class-Grade-Organizer-System
 
 ## C++
 
