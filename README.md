@@ -18,7 +18,7 @@ entire class list, access an individual profile using a student number, or to re
 ## Grade Results Menu
 <img width="237" alt="Screen Shot 2021-01-17 at 8 15 14 PM" src="https://user-images.githubusercontent.com/67882898/104862310-21181d80-5901-11eb-9012-00268a9a2699.png">
 
-## Class Grades (option from Results Menu)
+## Class Grades (first option from Grade Results Menu)
 <img width="788" alt="Screen Shot 2021-01-17 at 8 15 46 PM" src="https://user-images.githubusercontent.com/67882898/104862424-4016af80-5901-11eb-97da-07676a5fda21.png">
 
 ## Student Menu
