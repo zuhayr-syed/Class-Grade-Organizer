@@ -7,9 +7,13 @@
 • Designed the application to preform CRUD operations to a local txt file on a student’s information
 
 • Created the user interface through various menu features to allow user to implement actions on student's grades
+          
           - user can sign up or login 
+          
           - select to view the entire class list
+          
           - access an individual profile using a student number
+          
           - create/delete/edit a student’s profile and their information
 
 ## Welcome Screen
