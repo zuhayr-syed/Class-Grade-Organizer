@@ -6,6 +6,8 @@
  
 • Designed the application to preform CRUD operations to a local txt file on a student’s information
 
+• Implemented functions to calculate each student’s overall average and assign the corresponding letter grade
+
 • Created the user interface through various menu features to allow user to implement actions on student's grades
           
           - user can sign up or login 
