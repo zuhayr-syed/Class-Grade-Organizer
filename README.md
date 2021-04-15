@@ -14,7 +14,7 @@
           
           - select to view the entire class list  
           
-          - access an individual profile using a student number 
+          - access an individual profile using their student number 
           
           - create/delete/edit a student’s profile and their information 
 
